@@ -1,6 +1,7 @@
 {
   "cssTheme": "Obsidian Nord",
-  "interfaceFontFamily": "Menlo,Roboto Mono",
-  "textFontFamily": "Menlo,Roboto Mono",
-  "monospaceFontFamily": "Menlo,Roboto Mono"
+  "interfaceFontFamily": "Roboto Mono,Menlo",
+  "textFontFamily": "Roboto Mono,Menlo",
+  "monospaceFontFamily": "Roboto Mono,Menlo",
+  "baseFontSize": 14
 }

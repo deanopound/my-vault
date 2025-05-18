@@ -1,5 +1,5 @@
+[[weekly-notes]]
 # {{date:gggg-[W]WW}} – Weekly Log
-#weekly-notes #personal
 
 ## 🎯 Weekly Goals Recap
 - [ ] Goal 1 – Outcome:

@@ -1,5 +1,5 @@
+[[daily-notes]]
 # {{date:YYYY-MM-DD}} – Daily Log
-#daily-notes #personal
 
 ## 🔁 Top 3 Priorities
 - [ ] Priority 1

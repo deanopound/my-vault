@@ -9,7 +9,7 @@
     "enabled": false
   },
   "weekly": {
-    "format": "",
+    "format": "YYYY-MM-DD ([W]ww)",
     "template": "00-templates/weekly-notes.md",
     "folder": "01-control/02-weekly-logs",
     "enabled": true

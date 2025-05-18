@@ -1,6 +1,5 @@
+[[quarterly-notes]]
 # Q{{date:Q}} {{date:YYYY}} – Quarterly Log
-#quarterly-notes #personal
-
 ## 🧭 Mission Review
 - Life Purpose (1 sentence):
 - Am I aligned? (Y/N) Why/why not:

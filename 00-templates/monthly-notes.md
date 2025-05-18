@@ -1,5 +1,5 @@
+[[monthly-notes]]
 # {{date:YYYY-MM}} – Monthly Log
-#monthly-notes #personal
 
 ## 🎯 Goal Progress
 - Health:
