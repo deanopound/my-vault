@@ -1,5 +1,5 @@
 {
   "folder": "01-control/01-daily-logs",
-  "autorun": true,
-  "template": "00-templates/daily-notes"
+  "autorun": false,
+  "template": "00-templates/daily-log"
 }

@@ -4,16 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "514c1a90037f67c6",
+        "id": "4e41c2d1ab74f8d8",
         "type": "tabs",
         "children": [
           {
-            "id": "6342ea21e9792cc2",
+            "id": "715229a5499f56f2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "2c1d4770c24da4c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-resources/markdown-cheatsheet.md",
+                "file": "01-control/00-inbox/2025-05-20-075908.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +38,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "markdown-cheatsheet"
+              "title": "2025-05-20-075908"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,10 +202,18 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "6342ea21e9792cc2",
+  "active": "2c1d4770c24da4c9",
   "lastOpenFiles": [
-    "01-control/01-daily-logs/2025-05-18.md",
+    "01-control/04-quarterly-logs/2025-Q02.md",
+    "01-control/00-inbox/2025-05-20-075908.md",
+    "01-control/01-daily-logs/2025-05-20.md",
+    "00-templates/daily-log.md",
     "00-templates/brain-dump.md",
+    "01-control/01-daily-logs/2025-05-19.md",
+    "01-control/01-control.md",
+    "01-control/01-daily-logs/2025-05-18.md",
+    "home.md",
+    "04-resources/markdown-cheatsheet.md",
     "01-control/02-weekly-logs/2025-05-18 (W21).md",
     "01-control/03-monthly-logs/2025-05.md",
     "01-control/02-weekly-logs/2025-W20.md",
@@ -211,18 +230,10 @@
     "02-personal/01-areas/01-body/weekly-weigh-in.md",
     "02-personal/01-areas/01-body/workout-plan.md",
     "body.md",
-    "Untitled 2.md",
-    "00-templates/weekly-money-template.md",
     "02-personal/01-areas/02-money/weekly-budgeting",
     "02-personal/01-areas/05-systems",
     "02-personal/01-areas/04-relationships",
     "02-personal/01-areas/03-career",
-    "02-personal/01-areas/00-mind",
-    "Welcome.md",
-    "untitled.md",
-    "try.md",
-    "Untitled 1.md",
-    "test.md",
-    "ggg.md"
+    "02-personal/01-areas/00-mind"
   ]
 }
