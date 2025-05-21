@@ -1,30 +1,22 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:02-personal/01-areas/01-body  ",
-      "color": {
-        "a": 1,
-        "rgb": 16763906
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.00260009765625,
+  "lineSizeMultiplier": 1.00279947916667,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
+  "centerStrength": 0.497355143229167,
   "repelStrength": 10,
-  "linkStrength": 1,
+  "linkStrength": 0.504720052083333,
   "linkDistance": 250,
-  "scale": 1.5434085435241318,
+  "scale": 1.2732014959101092,
   "close": true
 }

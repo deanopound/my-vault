@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "daa2831e45b1cd49",
+        "id": "d3efc74a22d62103",
         "type": "tabs",
         "children": [
           {
-            "id": "e67543e151b203da",
+            "id": "c75c8e4048a0450e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-resources/markdown-cheatsheet.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "markdown-cheatsheet"
+              "title": "New tab"
             }
           }
         ]
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "tag:#demon-souls",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -98,6 +84,16 @@
         "id": "e334a20ac122376c",
         "type": "tabs",
         "children": [
+          {
+            "id": "0952930738011aea",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
           {
             "id": "f318a08443b51435",
             "type": "leaf",
@@ -152,13 +148,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-resources/markdown-cheatsheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of markdown-cheatsheet"
+              "title": "Outline"
             }
           },
           {
@@ -174,19 +169,25 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "0952930738011aea",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
+      },
+      {
+        "id": "7152209fa937946e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ed9ef39fbaa86e7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,59 +195,60 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "zk-prefixer:Create new unique note": false,
-      "random-note:Open random note": false,
-      "switcher:Open quick switcher": false,
+      "random-note:Open random note": true,
+      "switcher:Open quick switcher": true,
+      "canvas:Create new canvas": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "workspaces:Manage workspace layouts": true,
+      "daily-notes:Open today's daily note": true,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "daily-notes:Open today's daily note": false,
-      "workspaces:Manage workspace layouts": false,
       "audio-recorder:Start/stop recording": false,
+      "zk-prefixer:Create new unique note": false,
       "periodic-notes:Open this week": false
     }
   },
-  "active": "e67543e151b203da",
+  "active": "c75c8e4048a0450e",
   "lastOpenFiles": [
-    "01-control/01-daily-logs/2025-05-18.md",
-    "01-control/02-weekly-logs/2025-05-18 (W21).md",
-    "home.md",
+    "02-projects/games/skyrim/trophies.md",
+    "02-projects/games/black-myth-wukong/main-story-checklist.md",
+    "02-projects/games/black-myth-wukong/walkthrough.md",
+    "02-projects/games/black-myth-wukong/abilities-and-skills.md",
+    "02-projects/games/black-myth-wukong/gear-and-upgrades.md",
+    "02-projects/games/black-myth-wukong/builds.md",
+    "02-projects/games/black-myth-wukong/collectibles.md",
+    "02-projects/games/black-myth-wukong/side-quests-checklist.md",
+    "02-projects/games/demon-souls/boss-weaknesses.md",
+    "02-projects/games/black-myth-wukong",
+    "02-projects/games/demon-souls/weapon-upgrades.md",
+    "02-projects/games/demon-souls/builds.md",
+    "02-projects/games/demon-souls/advanced-builds-and-tactics.md",
+    "02-projects/games/demon-souls/world-tendency-guide.md",
+    "02-projects/games/demon-souls/trophies.md",
+    "02-projects/games/demon-souls/tips.md",
+    "02-projects/games/demon-souls/strategy-faith-paladin.md",
+    "02-projects/games/demon-souls/npc-questlines.md",
+    "02-projects/games/demon-souls/magic-and-miracles.md",
+    "02-projects/games/skyrim",
+    "02-projects/games/Untitled.md",
+    "02-projects/games/Untitled.canvas",
+    "02-projects/games/demon-souls",
+    "03-areas/01-body/01-weekly-workout-plan/W21-2025-05-19.md",
+    "02-projects/games",
     "03-areas/01-body/weekly-weigh-in.md",
-    "03-areas/01-body/workout-plan.md",
-    "03-areas/areas.md",
-    "resources.md",
-    "03-areas/01-body/2025.md",
-    "04-resources/markdown-cheatsheet.md",
-    "03-areas/01-body/00-weekly-workouts/Untitled.md",
-    "03-areas/01-body/00-weekly-workouts",
-    "01-control/02-weekly-logs/2025-05-12 (W20).md",
-    "01-control/01-daily-logs/2025-05-17.md",
-    "01-control/00-inbox/2025-05-18-1039.md",
-    "00-templates/brain-dump.md",
-    "01-control/00-inbox/2025-05-18-1102.md",
-    "01-control/00-inbox/2025-05-18-1101.md",
-    "01-control/00-inbox/2025-05-18-1100.md",
-    "01-control/00-inbox/2025-05-18-1059.md",
-    "01-control/00-inbox/2025-05-18-1058.md",
-    "01-control/00-inbox/2025-05-18-1057.md",
-    "01-control/00-inbox/2025-05-18-1056.md",
-    "01-control/00-inbox/2025-05-18-1055.md",
-    "01-control/00-inbox/2025-05-18-1054.md",
-    "01-control/00-inbox/2025-05-18-1053.md",
-    "01-control/00-inbox/2025-05-18-1052.md",
-    "01-control/00-inbox/2025-05-18-1051.md",
+    "01-control/04-quarterly-logs/2025-Q02.md",
+    "01-control/03-monthly-logs/2025-05.md",
+    "01-control/02-weekly-logs/W21-2025-05-19.md",
+    "01-control/01-daily-logs/2025-05-20.md",
+    "03-areas/overview.md",
+    "03-areas/00-mind/00-courses",
+    "04-resources/00-cheatsheets",
+    "03-areas/01-body/00-weekly-check-in",
+    "03-areas/01-body/01-weekly-workout-plan",
     "03-areas/01-body",
     "03-areas/03-career",
-    "03-areas/00-mind",
-    "03-areas/05-systems",
-    "03-areas/02-money/weekly-budgeting",
-    "03-areas/02-money",
-    "03-areas/04-relationships",
-    "git.ignore",
     "01-control/01-daily-notes/Untitled.canvas",
     "Untitled.canvas",
-    "00-templates/Untitled.canvas",
-    "00-templates/Untitled"
+    "00-templates/Untitled.canvas"
   ]
 }

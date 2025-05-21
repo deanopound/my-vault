@@ -1,4 +1,4 @@
-[[resources]]
+#cheatsheets
 ## Headings
 
 ```markdown
